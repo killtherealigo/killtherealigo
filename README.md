@@ -1,18 +1,3 @@
-# Hi, I'm Kirill Anoshkin 👋
-
-Bioinformatics & data science focused on single-cell omics, pipelines and reproducible research.  
-Exploring Rust for performant data processing.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api.svg?username=killtherealigo&show_icons=true&theme=github_dark&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs.svg?username=killtherealigo&layout=compact&theme=github_dark&cache_seconds=1800)
-
----
-
 ## 💻 Tech Stack
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
