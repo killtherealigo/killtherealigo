@@ -7,9 +7,9 @@ Exploring Rust for performant data processing.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=killtherealigo&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api.svg?username=killtherealigo&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=killtherealigo&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs.svg?username=killtherealigo&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ---
 
