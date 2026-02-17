@@ -1,4 +1,4 @@
-# Hi, I'm killtherealigo 👋
+# Hi, I'm Kirill Anoshkin 👋
 
 Bioinformatics & data science focused on single-cell omics, pipelines and reproducible research.  
 Exploring Rust for performant data processing.
@@ -7,9 +7,9 @@ Exploring Rust for performant data processing.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=killtherealigo&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=killtherealigo&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killtherealigo&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killtherealigo&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ---
 
@@ -17,7 +17,6 @@ Exploring Rust for performant data processing.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
 ![Bash](https://img.shields.io/badge/Bash-FCC624?style=flat&logo=gnu-bash&logoColor=black)
 ![Nextflow](https://img.shields.io/badge/Nextflow-23AA62?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
